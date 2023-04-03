@@ -284,8 +284,8 @@ nav .main-top-r a:hover {
 	overflow: hidden;
 	text-overflow: ellipsis;
 	position: relative;
-	padding-left: 30px;
-	letter-spacing: 4px;
+	padding-left: 20px;
+	letter-spacing: 2px;
 }
 
 .site-main .site-list .list p.name em {
